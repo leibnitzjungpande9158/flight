@@ -1,0 +1,14 @@
+CREATE TABLE `flightsearch`.`flight_details` (
+  `id` INT NOT NULL,
+  `flight_number` VARCHAR(45) NULL,
+  `origin` VARCHAR(45) NULL,
+  `aircraft` VARCHAR(45) NULL,
+  `destination` VARCHAR(45) NULL,
+  `carrier` VARCHAR(45) NULL,
+  `departure` TIMESTAMP NULL,
+  `arrival` TIMESTAMP NULL,
+  `distance` BIGINT NULL,
+  `travel_time` VARCHAR(45) NULL,
+  `status` VARCHAR(45) NULL,
+  PRIMARY KEY (`id`))
+COMMENT = '	';

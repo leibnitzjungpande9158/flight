@@ -1,0 +1,40 @@
+INSERT INTO `flightsearch`.`flight_details` (`id`, `flight_number`, `origin`, `aircraft`, `destination`, `carrier`, `departure`, `arrival`, `distance`, `travel_time`, `status`) VALUES 
+('1', '2005', 'IAH', 'Airbus A320', 'ORD', 'UA', '2018-01-31T05:10:00', '2018-01-31T07:57:00', 925, '02:47', 'Arrived at Gate');
+
+INSERT INTO `flightsearch`.`flight_details` (`id`, `flight_number`, `origin`, `aircraft`, `destination`, `carrier`, `departure`, `arrival`, `distance`, `travel_time`, `status`) VALUES 
+('2', '0638', 'IAH', 'Boeing 737-900', 'ORD', 'UA', '2018-01-31T07:45:00', '2018-01-31T10:18:00', 925, '02:33', 'Arrived at Gate');
+
+INSERT INTO `flightsearch`.`flight_details` (`id`, `flight_number`, `origin`, `aircraft`, `destination`, `carrier`, `departure`, `arrival`, `distance`, `travel_time`, `status`) VALUES 
+('3', '2005', 'IAH', 'Airbus A320', 'ORD', 'UA', '2018-01-31T05:10:00', '2018-01-31T07:57:00', 925, '02:47', 'Arrived at Gate');
+
+INSERT INTO `flightsearch`.`flight_details` (`id`, `flight_number`, `origin`, `aircraft`, `destination`, `carrier`, `departure`, `arrival`, `distance`, `travel_time`, `status`) VALUES 
+('3', '1160', 'IAH', 'Boeing 737-800', 'ORD', 'UA', '2018-01-31T12:05:00', '2018-01-31T14:38:00', 925, '02:41', 'Arrived at Gate');
+
+INSERT INTO `flightsearch`.`flight_details` (`id`, `flight_number`, `origin`, `aircraft`, `destination`, `carrier`, `departure`, `arrival`, `distance`, `travel_time`, `status`) VALUES 
+('4', '1256', 'IAH', 'Boeing 737-800', 'ORD', 'UA', '2018-01-31T14:22:00', '2018-01-31T17:01:00', 925, '02:41', 'On Time');
+
+INSERT INTO `flightsearch`.`flight_details` (`id`, `flight_number`, `origin`, `aircraft`, `destination`, `carrier`, `departure`, `arrival`, `distance`, `travel_time`, `status`) VALUES 
+('5', '2153', 'IAH', 'Boeing 737-800', 'ORD', 'UA', '2018-01-31T16:24:00', '2018-01-31T19:27:00', 925, '02:47', 'On Time');
+
+INSERT INTO `flightsearch`.`flight_details` (`id`, `flight_number`, `origin`, `aircraft`, `destination`, `carrier`, `departure`, `arrival`, `distance`, `travel_time`, `status`) VALUES 
+('6', '2155', 'IAH', 'Boeing 737-800', 'ORD', 'UA', '2018-01-31T18:10:00', '2018-01-31T20:49:00', 925, '02:39', 'On Time');
+
+
+
+INSERT INTO `flightsearch`.`flight_details` (`id`, `flight_number`, `origin`, `aircraft`, `destination`, `carrier`, `departure`, `arrival`, `distance`, `travel_time`, `status`) VALUES 
+('7', '2131', 'IAH', 'Boeing 737-900', 'ORD', 'UA', '2018-01-31T19:49:00', '2018-01-31T22:00:00', 925, '02:31', 'On Time');
+
+INSERT INTO `flightsearch`.`flight_details` (`id`, `flight_number`, `origin`, `aircraft`, `destination`, `carrier`, `departure`, `arrival`, `distance`, `travel_time`, `status`) VALUES 
+('8', '2043', 'ORD', 'Boeing 737-800', 'IAH', 'UA', '2018-01-31T06:08:00', '2018-01-31T08:42:00', 925, '02:34', 'Arrived at Gate');
+
+INSERT INTO `flightsearch`.`flight_details` (`id`, `flight_number`, `origin`, `aircraft`, `destination`, `carrier`, `departure`, `arrival`, `distance`, `travel_time`, `status`) VALUES 
+('9', '0748', 'ORD', 'Boeing 737-800', 'IAH', 'UA', '2018-01-31T08:10:00', '2018-01-31T10:44:00', 925, '02:34', 'Arrived at Gate');
+
+INSERT INTO `flightsearch`.`flight_details` (`id`, `flight_number`, `origin`, `aircraft`, `destination`, `carrier`, `departure`, `arrival`, `distance`, `travel_time`, `status`) VALUES 
+('10', '2166', 'ORD', 'Airbus A320', 'IAH', 'UA', '2018-01-31T10:15:00', '2018-01-31T12:53:00', 925, '02:34', 'Arrived at Gate');
+
+INSERT INTO `flightsearch`.`flight_details` (`id`, `flight_number`, `origin`, `aircraft`, `destination`, `carrier`, `departure`, `arrival`, `distance`, `travel_time`, `status`) VALUES 
+('11', '2171', 'ORD', 'Airbus A320', 'IAH', 'UA', '2018-01-31T12:45:00', '2018-01-31T15:34:00', 925, '02:39', 'On Time');
+
+INSERT INTO `flightsearch`.`flight_details` (`id`, `flight_number`, `origin`, `aircraft`, `destination`, `carrier`, `departure`, `arrival`, `distance`, `travel_time`, `status`) VALUES 
+('12', '1128', 'ORD', 'Boeing 737-800', 'IAH', 'UA', '2018-01-31T14:05:00', '2018-01-31T16:52:00', 925, '02:41', 'On Time');
